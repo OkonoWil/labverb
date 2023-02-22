@@ -8,3 +8,7 @@ typedef struct Rational{
 void print (Rational r);
 
 #endif
+void presentation();
+
+
+#endif
