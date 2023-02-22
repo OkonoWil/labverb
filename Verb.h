@@ -5,7 +5,6 @@ typedef struct Rational{
     int num;
     int den;
 }Rational;
-
-
+void print (Rational r);
 
 #endif
